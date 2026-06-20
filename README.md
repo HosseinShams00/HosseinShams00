@@ -15,15 +15,11 @@
 ## 🇮🇷 درباره من
 
 برنامه‌نویس فول استک با بیش از **۳ سال سابقه کار حرفه‌ای**، متخصص در توسعه بک‌اند با **C#** و **ASP.NET Core**.
-در این مدت در پروژه‌های بزرگ سازمانی از جمله سامانه‌های **سازمان بنادر و دریانوردی کشور** نقش داشته‌ام.
-
 علاوه بر بک‌اند، تجربه‌ام در **فرانت‌اند، مهندسی معکوس، اینترنت اشیاء (IoT)** و توسعه اپلیکیشن با Xamarin باعث شده دیدی جامع نسبت به توسعه نرم‌افزار داشته باشم.
 
 ## 🇬🇧 About Me
 
 Full-Stack Developer with **3+ years of professional experience**, specialized in backend development using **C#** and **ASP.NET Core**.
-I've contributed to large-scale enterprise systems, including platforms for the **Ports and Maritime Organization of Iran**.
-
 Beyond backend, I have hands-on experience in **frontend development, reverse engineering, IoT**, and Xamarin mobile apps.
 
 ---
