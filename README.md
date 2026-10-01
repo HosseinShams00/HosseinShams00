@@ -17,7 +17,7 @@
 برنامه‌نویس فول استک با بیش از **۳ سال سابقه کار حرفه‌ای**، متخصص در توسعه بک‌اند با **C#** و **ASP.NET Core**.
 علاوه بر بک‌اند، تجربه‌ام در **فرانت‌اند، مهندسی معکوس، اینترنت اشیاء (IoT)** و توسعه اپلیکیشن با Xamarin باعث شده دیدی جامع نسبت به توسعه نرم‌افزار داشته باشم.
 
-## 🇬🇧 About Me
+## About Me
 
 Full-Stack Developer with **3+ years of professional experience**, specialized in backend development using **C#** and **ASP.NET Core**.
 Beyond backend, I have hands-on experience in **frontend development, reverse engineering, IoT**, and Xamarin mobile apps.
